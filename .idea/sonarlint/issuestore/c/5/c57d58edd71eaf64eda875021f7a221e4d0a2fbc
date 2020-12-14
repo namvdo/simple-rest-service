@@ -1,0 +1,9 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ù£ùßøÿÿÿÿ
+P
+java:S1128";Remove this unused import 'controller.CheckSeatController'.(¼­—
+U
+java:S1128":Remove this unused import 'sun.jvm.hotspot.debugger.Page'.(Ù£ùßøÿÿÿÿ
+b
+java:S1128"LRemove this unused import 'jdk.nashorn.internal.objects.annotations.Getter'.(éÌ’«

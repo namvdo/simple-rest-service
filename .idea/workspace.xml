@@ -5,8 +5,183 @@
       <artifact name="RestTheater:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="58fe6017-ca06-4be4-9147-814d6c413b43" name="Default Changelist" comment="" />
+    <list default="true" id="58fe6017-ca06-4be4-9147-814d6c413b43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_google_code_gson_gson_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_servlet_jsp_jstl_javax_servlet_jsp_jstl_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_glassfish_jersey_media_jersey_media_json_jackson_2_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/099b16adc70d26a063c6d5161997722138190ce1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a1579c2bcf7b42d970ee5d580e985a7698a97e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6dc025f5f78a635119fe7a68664bd6eeda0e6ed6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86f1bab11f960c10025161b9f41d55778b9ca32e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a1279044d3bf4e62ce67c2922543be5f56333373" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7f5d3bc7f616154304bbfa32b2cb1aff8baff92" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d83f4a24095718cd81c49229044b282f9849f598" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d878baf228b7dd75d9ced1fef63ea4ebc7898848" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e80f781cf6348695ee0f4dac4c23d5ec38dfffd7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f41d4dd69474daa57ed89294aa03d2e043516511" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestTheater.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gson-2.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jackson-module-jaxb-annotations-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.annotation-api-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.inject-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jakarta.ws.rs-api-2.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl-api-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jersey-common-2.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jersey-entity-filtering-2.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jersey-media-json-jackson-2.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/osgi-resource-locator-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/namdv/jaxrs/service/SetUpTheater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/namdv/jaxrs/service/SetUpTheaterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/namdv/jaxrs/service/TheaterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/namdv/jaxrs/service/TheaterServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/CheckSeatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/CinemaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/InitializingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ReserveSeatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/SetupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exception/InvalidPartyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exception/TheaterException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exception/ValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Coordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Theater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/response/BaseResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/response/CheckSeatResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/response/ReserveSeatResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/response/SetupResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/response/ViewTheaterResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/PageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/validation/BaseValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/checkSeats.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/cinema.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/client.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reserveSeat.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/setUpCinema.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TheaterUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/META-INF/RestTheater.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/com/namdv/jaxrs/service/SetUpTheater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/com/namdv/jaxrs/service/SetUpTheaterImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/com/namdv/jaxrs/service/TheaterService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/com/namdv/jaxrs/service/TheaterServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/controller/CheckSeatController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/controller/CinemaController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/controller/ClientController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/controller/InitializingController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/controller/ReserveSeatController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/controller/SetupController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/exception/InvalidPartyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/exception/TheaterException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/exception/ValidationException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/model/Coordinate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/model/Theater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/response/BaseResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/response/CheckSeatResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/response/ReserveSeatResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/response/SetupResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/response/ViewTheaterResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/utils/PageUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/classes/validation/BaseValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/aopalliance-repackaged-2.5.0-b30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/hk2-api-2.5.0-b30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/hk2-locator-2.5.0-b30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/hk2-utils-2.5.0-b30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jackson-annotations-2.8.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jackson-core-2.8.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jackson-databind-2.8.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jackson-jaxrs-base-2.8.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jackson-jaxrs-json-provider-2.8.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jackson-module-jaxb-annotations-2.8.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/javaee-web-api-7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/javassist-3.20.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/javax.annotation-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/javax.inject-2.5.0-b30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/javax.ws.rs-api-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jersey-client-2.25.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jersey-common-2.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jersey-container-servlet-2.25.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jersey-container-servlet-core-2.25.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jersey-entity-filtering-2.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jersey-guava-2.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jersey-media-jaxb-2.25.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jersey-media-json-jackson-2.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/jersey-server-2.25.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/osgi-resource-locator-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/checkSeats.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/cinema.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/client.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/reserveSeat.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RestTheater/setUpCinema.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/RestTheater.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/namdv/jaxrs/service/SetUpTheater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/namdv/jaxrs/service/SetUpTheaterImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/namdv/jaxrs/service/TheaterService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/namdv/jaxrs/service/TheaterServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/controller/CheckSeatController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/controller/CinemaController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/controller/ClientController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/controller/InitializingController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/controller/ReserveSeatController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/controller/SetupController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/exception/InvalidPartyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/exception/TheaterException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/exception/ValidationException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/Coordinate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/Theater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/response/BaseResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/response/CheckSeatResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/response/ReserveSeatResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/response/SetupResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/response/ViewTheaterResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/utils/PageUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/validation/BaseValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/TheaterUnitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +196,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -44,8 +222,10 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -242,22 +422,41 @@
       <workItem from="1607838235379" duration="4204000" />
       <workItem from="1607842459515" duration="18938000" />
       <workItem from="1607864315605" duration="16614000" />
+      <workItem from="1607883229512" duration="1654000" />
+      <workItem from="1607884901251" duration="713000" />
+      <workItem from="1607920091697" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="0" y="25" key="#Project_Structure" timestamp="1607838783270">
       <screen x="0" y="25" width="1280" height="721" />
     </state>
     <state x="0" y="25" key="#Project_Structure/0.25.1280.721@0.25.1280.721" timestamp="1607838783270" />
-    <state x="100" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607845231108">
-      <screen x="0" y="25" width="1280" height="722" />
+    <state x="100" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607883300628">
+      <screen x="0" y="25" width="1280" height="721" />
     </state>
-    <state x="100" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1280.721@0.25.1280.721" timestamp="1607844119961" />
+    <state x="100" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1280.721@0.25.1280.721" timestamp="1607883300628" />
     <state x="100" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1280.722@0.25.1280.722" timestamp="1607845231108" />
+    <state x="351" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607883529484">
+      <screen x="0" y="25" width="1280" height="721" />
+    </state>
+    <state x="351" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1280.721@0.25.1280.721" timestamp="1607883529484" />
     <state x="406" y="25" width="468" height="721" key="#com.intellij.ide.util.MemberChooser" timestamp="1607870136811">
       <screen x="0" y="25" width="1280" height="721" />
     </state>
@@ -270,65 +469,65 @@
       <screen x="0" y="25" width="1280" height="721" />
     </state>
     <state x="110" y="45" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.25.1280.721@0.25.1280.721" timestamp="1607839898608" />
-    <state width="802" height="512" key="GridCell.Tab.0.bottom" timestamp="1607880613542">
+    <state width="802" height="512" key="GridCell.Tab.0.bottom" timestamp="1607885613568">
       <screen x="0" y="25" width="1280" height="721" />
     </state>
-    <state width="802" height="512" key="GridCell.Tab.0.bottom/0.25.1280.721@0.25.1280.721" timestamp="1607880613542" />
+    <state width="802" height="512" key="GridCell.Tab.0.bottom/0.25.1280.721@0.25.1280.721" timestamp="1607885613568" />
     <state width="826" height="512" key="GridCell.Tab.0.bottom/0.25.1280.722@0.25.1280.722" timestamp="1607859117653" />
-    <state width="802" height="512" key="GridCell.Tab.0.center" timestamp="1607880613540">
+    <state width="802" height="512" key="GridCell.Tab.0.center" timestamp="1607885613566">
       <screen x="0" y="25" width="1280" height="721" />
     </state>
-    <state width="802" height="512" key="GridCell.Tab.0.center/0.25.1280.721@0.25.1280.721" timestamp="1607880613540" />
+    <state width="802" height="512" key="GridCell.Tab.0.center/0.25.1280.721@0.25.1280.721" timestamp="1607885613566" />
     <state width="826" height="512" key="GridCell.Tab.0.center/0.25.1280.722@0.25.1280.722" timestamp="1607859117652" />
-    <state width="802" height="512" key="GridCell.Tab.0.left" timestamp="1607880613539">
+    <state width="802" height="512" key="GridCell.Tab.0.left" timestamp="1607885613566">
       <screen x="0" y="25" width="1280" height="721" />
     </state>
-    <state width="802" height="512" key="GridCell.Tab.0.left/0.25.1280.721@0.25.1280.721" timestamp="1607880613539" />
+    <state width="802" height="512" key="GridCell.Tab.0.left/0.25.1280.721@0.25.1280.721" timestamp="1607885613566" />
     <state width="826" height="512" key="GridCell.Tab.0.left/0.25.1280.722@0.25.1280.722" timestamp="1607859117652" />
-    <state width="802" height="512" key="GridCell.Tab.0.right" timestamp="1607880613541">
+    <state width="802" height="512" key="GridCell.Tab.0.right" timestamp="1607885613567">
       <screen x="0" y="25" width="1280" height="721" />
     </state>
-    <state width="802" height="512" key="GridCell.Tab.0.right/0.25.1280.721@0.25.1280.721" timestamp="1607880613541" />
+    <state width="802" height="512" key="GridCell.Tab.0.right/0.25.1280.721@0.25.1280.721" timestamp="1607885613567" />
     <state width="826" height="512" key="GridCell.Tab.0.right/0.25.1280.722@0.25.1280.722" timestamp="1607859117652" />
-    <state width="802" height="512" key="GridCell.Tab.1.bottom" timestamp="1607880613554">
+    <state width="802" height="512" key="GridCell.Tab.1.bottom" timestamp="1607885613571">
       <screen x="0" y="25" width="1280" height="721" />
     </state>
-    <state width="802" height="512" key="GridCell.Tab.1.bottom/0.25.1280.721@0.25.1280.721" timestamp="1607880613554" />
+    <state width="802" height="512" key="GridCell.Tab.1.bottom/0.25.1280.721@0.25.1280.721" timestamp="1607885613571" />
     <state width="826" height="512" key="GridCell.Tab.1.bottom/0.25.1280.722@0.25.1280.722" timestamp="1607859117654" />
-    <state width="802" height="512" key="GridCell.Tab.1.center" timestamp="1607880613544">
+    <state width="802" height="512" key="GridCell.Tab.1.center" timestamp="1607885613569">
       <screen x="0" y="25" width="1280" height="721" />
     </state>
-    <state width="802" height="512" key="GridCell.Tab.1.center/0.25.1280.721@0.25.1280.721" timestamp="1607880613544" />
+    <state width="802" height="512" key="GridCell.Tab.1.center/0.25.1280.721@0.25.1280.721" timestamp="1607885613569" />
     <state width="826" height="512" key="GridCell.Tab.1.center/0.25.1280.722@0.25.1280.722" timestamp="1607859117653" />
-    <state width="802" height="512" key="GridCell.Tab.1.left" timestamp="1607880613543">
+    <state width="802" height="512" key="GridCell.Tab.1.left" timestamp="1607885613569">
       <screen x="0" y="25" width="1280" height="721" />
     </state>
-    <state width="802" height="512" key="GridCell.Tab.1.left/0.25.1280.721@0.25.1280.721" timestamp="1607880613543" />
+    <state width="802" height="512" key="GridCell.Tab.1.left/0.25.1280.721@0.25.1280.721" timestamp="1607885613569" />
     <state width="826" height="512" key="GridCell.Tab.1.left/0.25.1280.722@0.25.1280.722" timestamp="1607859117653" />
-    <state width="802" height="512" key="GridCell.Tab.1.right" timestamp="1607880613545">
+    <state width="802" height="512" key="GridCell.Tab.1.right" timestamp="1607885613570">
       <screen x="0" y="25" width="1280" height="721" />
     </state>
-    <state width="802" height="512" key="GridCell.Tab.1.right/0.25.1280.721@0.25.1280.721" timestamp="1607880613545" />
+    <state width="802" height="512" key="GridCell.Tab.1.right/0.25.1280.721@0.25.1280.721" timestamp="1607885613570" />
     <state width="826" height="512" key="GridCell.Tab.1.right/0.25.1280.722@0.25.1280.722" timestamp="1607859117653" />
-    <state width="802" height="512" key="GridCell.Tab.2.bottom" timestamp="1607880613606">
+    <state width="802" height="512" key="GridCell.Tab.2.bottom" timestamp="1607885613572">
       <screen x="0" y="25" width="1280" height="721" />
     </state>
-    <state width="802" height="512" key="GridCell.Tab.2.bottom/0.25.1280.721@0.25.1280.721" timestamp="1607880613606" />
+    <state width="802" height="512" key="GridCell.Tab.2.bottom/0.25.1280.721@0.25.1280.721" timestamp="1607885613572" />
     <state width="826" height="512" key="GridCell.Tab.2.bottom/0.25.1280.722@0.25.1280.722" timestamp="1607859117655" />
-    <state width="802" height="512" key="GridCell.Tab.2.center" timestamp="1607880613560">
+    <state width="802" height="512" key="GridCell.Tab.2.center" timestamp="1607885613572">
       <screen x="0" y="25" width="1280" height="721" />
     </state>
-    <state width="802" height="512" key="GridCell.Tab.2.center/0.25.1280.721@0.25.1280.721" timestamp="1607880613560" />
+    <state width="802" height="512" key="GridCell.Tab.2.center/0.25.1280.721@0.25.1280.721" timestamp="1607885613572" />
     <state width="826" height="512" key="GridCell.Tab.2.center/0.25.1280.722@0.25.1280.722" timestamp="1607859117655" />
-    <state width="802" height="512" key="GridCell.Tab.2.left" timestamp="1607880613558">
+    <state width="802" height="512" key="GridCell.Tab.2.left" timestamp="1607885613571">
       <screen x="0" y="25" width="1280" height="721" />
     </state>
-    <state width="802" height="512" key="GridCell.Tab.2.left/0.25.1280.721@0.25.1280.721" timestamp="1607880613558" />
+    <state width="802" height="512" key="GridCell.Tab.2.left/0.25.1280.721@0.25.1280.721" timestamp="1607885613571" />
     <state width="826" height="512" key="GridCell.Tab.2.left/0.25.1280.722@0.25.1280.722" timestamp="1607859117654" />
-    <state width="802" height="512" key="GridCell.Tab.2.right" timestamp="1607880613600">
+    <state width="802" height="512" key="GridCell.Tab.2.right" timestamp="1607885613572">
       <screen x="0" y="25" width="1280" height="721" />
     </state>
-    <state width="802" height="512" key="GridCell.Tab.2.right/0.25.1280.721@0.25.1280.721" timestamp="1607880613600" />
+    <state width="802" height="512" key="GridCell.Tab.2.right/0.25.1280.721@0.25.1280.721" timestamp="1607885613572" />
     <state width="826" height="512" key="GridCell.Tab.2.right/0.25.1280.722@0.25.1280.722" timestamp="1607859117655" />
     <state x="0" y="25" width="1280" height="721" key="SettingsEditor" timestamp="1607853266375">
       <screen x="0" y="25" width="1280" height="721" />
