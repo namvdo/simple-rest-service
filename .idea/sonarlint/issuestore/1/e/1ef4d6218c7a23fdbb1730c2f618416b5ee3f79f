@@ -1,9 +1,9 @@
 
-o
-java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ΡΟ™α8Φλε.
-Z
-java:S3655Μ"7Call "Optional#isPresent()" before accessing the value.(Ο€Δ΄ÿÿÿÿÿ8Φλε.
 p
 java:S3776΄"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(©εΐ“8Φλε.
 Z
+java:S3655Μ"7Call "Optional#isPresent()" before accessing the value.(Ο€Δ΄ÿÿÿÿÿ8Φλε.
+Z
 java:S3655Ζ"7Call "Optional#isPresent()" before accessing the value.( Ρƒϊÿÿÿÿ8Φλε.
+o
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ΡΟ™α8Φλε.
