@@ -68,7 +68,8 @@ public class Theater {
      * Gets available seat sets which are currently available for booking.
      *
      * @param requiredSeats - number of consecutive seats needed.
-     * @return a set containing a list, each list will elements with the adjacent numbers represent position of empty seats together in the theater.
+     * @return a list of seat sets available for booking, because each of the seat in a set will be unique, so it's better to use a Set as an element of the List
+     * itself instead of a nested list.
      */
     public List<Set<Integer>> getAvailableSeatSets(int requiredSeats) {
         List<Set<Integer>> availableSets = new ArrayList<>(10);
