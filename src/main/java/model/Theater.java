@@ -68,7 +68,8 @@ public class Theater {
      * Gets available seat sets which are currently available for booking.
      *
      * @param requiredSeats - number of consecutive seats needed.
-     * @return a list of seat sets available for booking, because each of the seat in a set will be unique, so it's better to use a Set as an element of the List
+     * @return a list of seat sets available for booking, because each of the seat in a set will be unique,
+     * so it's better to use a Set as an element of the List
      * itself instead of a nested list.
      */
     public List<Set<Integer>> getAvailableSeatSets(int requiredSeats) {
@@ -179,11 +180,12 @@ public class Theater {
      * @return a map indicates the parties and their coordinates
      */
     private Map<String, Coordinate> getTheNearestParties(String party, int row, int column) {
-        // there is a plural, because there can be 2 parties with the same distance
-        // with the provided coordinate. Or it only contains 1 nearest party.
+        // there is a plural, because there can be 2 parties with the same nearest distance
+        // with the provided coordinate. Or it can only contain one party, or also there will be 
+        // no parties output in case no party found.
         Map<String, Coordinate> nearestParties = new HashMap<>(1);
         // initially sets both forward and backward position as the current required position
-        // the position number is viewed as client aspect. i.e, rows start with 1, and columns
+        // the position number is viewed in the client view. i.e, rows start with 1, and columns
         // also starts with 1, the purpose is to not create auxiliary row and column variables and
         // update them in each pass inside the loop.
         int currentForwardPosition = row * getColumnsPerRow() + column + 1;
@@ -191,7 +193,8 @@ public class Theater {
         // here, we have to scan left and right to get nearest parties,
         // we can whether just go backward with the number of min distance steps and
         // forward with the number of min distance steps
-        // or else we need to go to the very first seat and/or go to the very last seat.
+        // or else we need to go to the very first seat and/or go to the very last seat
+        // to find the candidate party.
         List<Optional<Coordinate>> limitLeftRight = getLimitLeftRight(row, column);
         int limitLeft;
         int limitRight;
