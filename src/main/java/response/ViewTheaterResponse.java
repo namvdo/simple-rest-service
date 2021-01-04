@@ -2,7 +2,7 @@ package response;
 
 /**
  * The instance of this class will be created when
- * the view theater request sent.
+ * the view theater request is sent.
  *
  * @param <T> the type parameter
  * @author namvdo
