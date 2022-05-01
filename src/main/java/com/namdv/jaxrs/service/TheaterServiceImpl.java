@@ -22,10 +22,6 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * In case there are multiple clients access the service,
- * then the integrity cannot be compromise with performance
- * hence every method retrieving data uses the synchronized keyword
- *
  * @author namvdo
  */
 @Path("/client")
