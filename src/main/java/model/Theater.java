@@ -139,9 +139,9 @@ public class Theater {
     }
 
     /**
-     * Reserves a seat for clients.
+     * Reserves a seat for users.
      *
-     * @param party  the party the client want to reserve as
+     * @param party  the party the user want to reserve as
      * @param row    the row position in the theater
      * @param column the column position in the theater
      * @return true if succeeded or false otherwise.
@@ -183,7 +183,7 @@ public class Theater {
         // no parties output in case no party found.
         Map<String, Coordinate> nearestParties = new HashMap<>(1);
         // initially sets both forward and backward position as the current required position
-        // the position number is viewed in the client view. i.e, rows start with 1, and columns
+        // the position number is viewed in the user's view. i.e, rows start with 1, and columns
         // also starts with 1, the purpose is to not create auxiliary row and column variables and
         // update them in each pass inside the loop.
         int currentForwardPosition = row * getColumnsPerRow() + column + 1;
